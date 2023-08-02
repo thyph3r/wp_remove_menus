@@ -30,7 +30,7 @@ function hideUnncessaryMenuItems(){
         remove_menu_page( 'edit-comments.php' );
         remove_menu_page( 'edit.php?post_type=static_block' );
         remove_menu_page( 'wpcf7' );		
-		remove_menu_page( 'woocommerce-marketing' );
+	remove_menu_page( 'woocommerce-marketing' );
         remove_menu_page( 'users.php' );
         remove_menu_page( 'tools.php' );
         remove_menu_page( 'vc-welcome' );
