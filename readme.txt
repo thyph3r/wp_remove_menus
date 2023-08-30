@@ -1,6 +1,6 @@
 === Ecoweb MU Code Snippets ===
 Contributors: Othonas Man
-Requires at least: 6.0
+Requires at least: 6.2.1
 Tested up to: 7.0.1
 WC requires at least: 4.0
 WC tested up to: 6.9
